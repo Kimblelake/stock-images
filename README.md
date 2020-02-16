@@ -7,3 +7,5 @@ To set up the repo, do the following:
 2. Activate the virtual environment through running the activate script - `.\venv\Scripts\activate`
 3. When activated, the command line should say (venv) at the front. Now you can install your requirements for the project from requirements.txt.
     - To install requirements, run the following: `pip install -r requirements`
+
+``
