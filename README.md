@@ -8,3 +8,4 @@ To set up the repo, do the following:
 3. When activated, the command line should say (venv) at the front. Now you can install your requirements for the project from requirements.txt.
     - To install requirements, run the following: `pip install -r requirements`
 
+``
